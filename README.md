@@ -56,9 +56,9 @@ Extraer todos los libros del género **Fantasy** y cargarlos en la base de datos
 
 ## 📂 Estructura del Proyecto
 
-DATABASE/ # Contiene la base de datos SQLite (books.db) 
-DOCS/ # Documentación del proyecto (adp_proyecto.pdf) 
-NOTEBOOKS/ # Jupyter Notebooks para análisis y desarrollo
+DATABASE/        # Contiene la base de datos SQLite (books.db)
+DOCS/            # Documentación del proyecto (adp_proyecto.pdf)
+NOTEBOOKS/       # Jupyter Notebooks para análisis y desarrollo
 
 ---
 
